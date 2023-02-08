@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --dirsfirst --sort X tr ',' '\n' 
+ls -a --dirsfirst --sort ',' '\n' 

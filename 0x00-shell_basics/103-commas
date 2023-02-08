@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a [123]* [abc]* tr ',' '\n' 
+ls -a --dirsfirst --sort X tr ',' '\n' 

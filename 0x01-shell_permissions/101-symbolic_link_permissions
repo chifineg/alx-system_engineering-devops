@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -s chown santhosh:digitash _hello
+sudo chown vincent:staff _hello

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School"
-#	with 1 conditional statement 10 times
+# This script is displaying 1 to 20
+#	with some conditional statement
 
 
 i=1

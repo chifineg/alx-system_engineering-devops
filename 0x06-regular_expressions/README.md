@@ -1,3 +1,0 @@
-For this project, we will build regular expression using Oniguruma.
-Oniguruma is a regular expression library that is used by Ruby by default.
-Note that other regular expression libraries sometimes have different properties.

@@ -1,0 +1,1 @@
+For this project, we will try to understand what happens when a website like google.com is entered into a web browser. The whole process of what happens when fetching a website from millions of websites on the internet will be discussed in this project.
